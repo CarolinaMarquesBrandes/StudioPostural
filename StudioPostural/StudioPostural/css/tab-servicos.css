@@ -1,0 +1,26 @@
+.nossos-servicos{
+    text-align: center;
+}
+.servicos{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.col-serv{
+    width: 30%;
+    text-align: center;
+    margin: 20px 0px 20px 4px;    
+}
+
+.servicos:last-child{
+    justify-content: center;
+}
+
+.col-serv img{
+    width: 100%;
+    max-width: 300px;
+    height: 200px;
+    border: 1px solid #713c06;
+    box-shadow: 2px 2px 2px #4b4b4b;
+}

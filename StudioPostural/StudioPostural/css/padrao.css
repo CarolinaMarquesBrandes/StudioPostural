@@ -1,0 +1,88 @@
+/* configuração da página */
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #884604;
+}
+
+/* titulos */
+h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+/* div para centralizar conteudo */
+.centralizar {
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* logo */
+#logo {
+    width: 42%;
+    display: block;
+    margin: 10px auto;
+}
+
+/* menu */
+#menu {
+    background-color: #f6821f;
+    height: 50px;
+    margin-top: 20px;
+}
+#menu a {
+    display: inline-block;
+    padding: 11px 30px;
+    color: #f7f5f3;
+    text-decoration: none;
+    font-size: 19px;
+    text-shadow: 0.5px 0.5px 1px #b4afaf;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+#menu a:hover, .pagAtual {
+    background-color: #f8cba5;
+    color: #602a02;
+}
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+/* redes sociais */
+#redes-sociais{
+    position: fixed;
+    right: 0;
+    top: 360px;
+    z-index: 2;
+    background-color: rgba(237, 99, 13, 0.19);
+    padding: 5px;
+    border-radius: 5%;
+}
+
+#redes-sociais > a{
+    display: block;
+}
+
+
+/* footer */
+footer{
+    background-color: #f6821f;
+    text-align: center;
+    padding: 30px 40px;
+    box-sizing: border-box;
+    color: #292929;
+    text-shadow: 0.5px 0.5px 2px white;
+    margin-top: 50px;
+}
+
+.icone-contato{
+    margin: 0px 5px;
+}

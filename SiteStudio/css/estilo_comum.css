@@ -131,8 +131,16 @@ footer{
 }
 
 @media screen and (max-width: 767px) {
+    h1{
+        font-size:25px;
+    }
+    
     .flex-header{
         justify-content: space-between;
+    }
+    
+    .container-logo-e-menu{
+        position: fixed;
     }
     
     #logo{

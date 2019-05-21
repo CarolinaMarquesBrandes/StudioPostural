@@ -39,5 +39,18 @@
     .coluna-secao{
         width: 100%;
     }
+    
+    .coluna-secao h3{
+        font-size: 20px;
+    }
+    
+     .coluna-secao p{
+        width: 75%;
+    }
+    
+    .coluna-secao img{
+        width: 75%;
+    }
+    
    
 }

@@ -14,7 +14,7 @@
                 <a href="quem-somos.php">Quem Somos</a>
                 <a href="servicos.php">Serviços</a>
                 <a href="promocoes.php">Promoções</a>
-                <a href="index.php">Profissionais</a>
+                <a href="profissionais.php">Profissionais</a>
                 <a href="index.php">Blog</a>
                 <a href="index.php">Contato</a>
             </nav>

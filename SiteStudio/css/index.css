@@ -29,7 +29,8 @@
     padding: 15px;
     position: absolute;
     top: 40vh;
-    color: #602900;
+    color: #261102;
+    font-weight: 700;
     display: flex;
     flex-direction: column;
     align-items:center;
@@ -37,6 +38,7 @@
 
 .quemSomos h1{
     font-size: 25px;
+    font-weight: 900;
     text-align: center;
 }
 

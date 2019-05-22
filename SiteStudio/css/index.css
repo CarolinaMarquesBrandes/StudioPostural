@@ -14,6 +14,7 @@
 #banner1{
     background-image: url(../imgs/01-banner-index.jpg);
     background-position: center;
+    opacity: 0.9;
 }
 
 #banner2{

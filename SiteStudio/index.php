@@ -34,24 +34,29 @@
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <div class="banner" id="banner1"></div>
+                    <div class="banner" id="banner1">
+                        <div class="delimitador-conteudo">
+                            <article class="quemSomos">
+                                <h1 data-aos="zoom-in">O Studio Postural</h1>
+                                <p data-aos="zoom-in">Criado em 1993, o Studio Postural surgiu de um antigo anseio: o de criar um espaço que abrigasse atividades e tratamentos relacionados à saúde e à estética e que, centrado na perspectiva das diferenças entre os indivíduos ...</p>
+                                <a data-aos="zoom-in" class="btn btn-primary" href="quem-somos.php" role="button">Saiba Mais</a>
+                            </article>
+                        </div>
+                        
+                    </div>
                 </div>
+                
                 <div class="carousel-item">
                     <div class="banner" id="banner2"></div>
                 </div>
+                
                 <div class="carousel-item">
                     <div class="banner" id="banner3"></div>
                 </div>
             </div>
-        </div>
+    </div>
         
-    <div class="delimitador-conteudo">
-        <article class="quemSomos">
-            <h1 data-aos="zoom-in">O Studio Postural</h1>
-            <p data-aos="zoom-in">Criado em 1993, o Studio Postural surgiu de um antigo anseio: o de criar um espaço que abrigasse atividades e tratamentos relacionados à saúde e à estética e que, centrado na perspectiva das diferenças entre os indivíduos ...</p>
-            <a data-aos="zoom-in" class="btn btn-primary" href="quem-somos.php" role="button">Saiba Mais</a>
-        </article>
-        
+    <div class="delimitador-conteudo"> 
         <article class="nossosServicos">
             <h1>Nossos Serviços</h1>
 

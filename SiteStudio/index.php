@@ -14,15 +14,17 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
     
-     <script>
+    <script>
         $(document).ready(function() {
             AOS.init();
-            
+
             $("#btn-menu").click(function(){
                $(".menu").slideToggle();
             });
         });
+
     </script>
 
      

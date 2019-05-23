@@ -33,19 +33,19 @@
         <div class="flex-promocoes">
             <article class="container-promocoes">
                 <h2>Lorem ipsum</h2>
-                <img src="imgs/criofrequencia.jpg" alt="">
+                <img src="imgs/imgs-promocoes/criofrequencia.jpg" alt="">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias laboriosam excepturi corporis eveniet iusto eos est in optio maxime. Cumque culpa placeat nihil rerum adipisci animi quo voluptatem, fugiat ratione!</p>
             </article> 
             
             <article class="container-promocoes">
                 <h2>Lorem ipsum</h2>
-                <img src="imgs/beauty-2.jpeg" alt="">
+                <img src="imgs/imgs-promocoes/beauty-2.jpeg" alt="">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias laboriosam excepturi corporis eveniet iusto eos est in optio maxime. Cumque culpa placeat nihil rerum adipisci animi quo voluptatem, fugiat ratione!</p>
             </article> 
             
             <article class="container-promocoes">
                 <h2>Lorem ipsum</h2>
-                <img src="imgs/estetica_medica_fundo.jpg" alt="">
+                <img src="imgs/imgs-promocoes/estetica_medica_fundo.jpg" alt="">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias laboriosam excepturi corporis eveniet iusto eos est in optio maxime. Cumque culpa placeat nihil rerum adipisci animi quo voluptatem, fugiat ratione!</p>
             </article> 
         </div>

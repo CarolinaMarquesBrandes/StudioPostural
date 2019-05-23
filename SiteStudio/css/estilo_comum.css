@@ -139,10 +139,6 @@ footer{
         justify-content: space-between;
     }
     
-    .container-logo-e-menu{
-        position: fixed;
-    }
-    
     #logo{
         width: 80%;
     }

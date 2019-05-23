@@ -26,3 +26,24 @@
     margin-top: 15px;
 }
 
+/* MEDIA QUERIES */
+/* PARA TELAS DE NO MAX ATÉ 1024 */
+@media screen and (max-width: 1024px) {
+    .flex-profissionais{
+        justify-content: space-around;
+    }
+    .coluna-profissional{
+        width: 40%;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .flex-profissionais{
+        justify-content: flex-start;
+    }
+    .coluna-profissional{
+        width: 90%;
+    }
+   
+}

@@ -40,7 +40,7 @@
         </article>
 
         <aside class="foto-estudio">
-            <img src="imgs/foto-temporaria-studio.jpg" alt="Foto do Studio">
+            <img src="imgs/imgs-quemSomos/foto-temporaria-studio.jpg" alt="Foto do Studio">
         </aside> 
     </div>
 

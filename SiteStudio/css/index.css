@@ -12,17 +12,17 @@
 }
 
 #banner1{
-    background-image: url(../imgs/01-banner-index.jpg);
+    background-image:url(../imgs/imgs-index/01-banner-index.jpg);
     background-position: center;
     opacity: 0.9;
 }
 
 #banner2{
-    background-image: url(../imgs/Pilates.jpg);
+    background-image:url(../imgs/imgs-index/02-banner.jpg);
 }
 
 #banner3{
-    background-image: url(../imgs/05-banner.jpg); 
+    background-image:url(../imgs/imgs-index/03-banner.jpg);
 }
 
 .quemSomos{
@@ -62,7 +62,7 @@
 .segundo-banner{
     margin: 40px 0 60px;
     height: 300px;
-    background-image: url(../imgs/spa-3184610_1920.jpg);
+    background-image: url(../imgs/imgs-index/spa-3184610_1920.jpg);
     background-size: cover;
     background-attachment: fixed;
     opacity: 0.7;
@@ -119,17 +119,16 @@
     }
     
     .quemSomos{
-        position:static;
-        margin-top: 40px;
+        margin-top: 10px;
     }
 
     .quemSomos h1{
-        font-size: 25px;
+        font-size: 20px;
         text-align: center;
     }
 
     .quemSomos p{
-        font-size: 16px;
+        font-size: 14px;
         text-align: center;
         width: 80%;
     }

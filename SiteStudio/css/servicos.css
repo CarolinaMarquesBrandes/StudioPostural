@@ -31,6 +31,19 @@
     width: 100%;
 }
 
+/* MEDIA QUERIES */
+/* PARA TELAS DE NO MAX ATÉ 1024 */
+@media screen and (max-width: 1024px) {}
+
+@media screen and (max-width: 767px) {
+    .menu-servicos{
+        display: none;
+    }
+    
+    .servicos-flex{
+        margin-top: 40px;
+    }
+}
 
 
 

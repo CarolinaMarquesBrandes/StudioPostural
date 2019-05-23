@@ -16,7 +16,7 @@
                 <a href="promocoes.php">Promoções</a>
                 <a href="profissionais.php">Profissionais</a>
                 <a href="blog.php">Blog</a>
-                <a href="index.php">Contato</a>
+                <a href="contato.php">Contato</a>
             </nav>
         </div>
    </header>
